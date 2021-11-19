@@ -10,10 +10,10 @@ COVID-19 Detection from Chest X-Rays by building a Simple Convolution Neural Net
 # Datset:
 Kaggle X-Ray Chest Images - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-# There are three folders:
+# There are two folders:
 
-Covid 19 : using CNN and image detection to detct the Covid patient.
-classification: To classify the negative and positive images of Covid patient.
+1. Covid 19 : using CNN and image detection to detct the Covid patient.
+2. classification: To classify the negative and positive images of Covid patient.
 
 --- step-by-step to run code
 1. Classify the positive and negative images of Covid patient
