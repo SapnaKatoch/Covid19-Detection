@@ -16,5 +16,5 @@ Kaggle X-Ray Chest Images - https://www.kaggle.com/paultimothymooney/chest-xray-
 2. classification: To classify the negative and positive images of Covid patient.
 
 --- step-by-step to run code
-1. Classify the positive and negative images of Covid patient
-2. Detect that how many patients are covid positive and negative using confusion matrix.
+1. Run command "classification.py" to classify the positive and negative images of Covid patient
+2. Run command "Covid19.py" to detect that how many patients are covid positive and negative using confusion matrix.
